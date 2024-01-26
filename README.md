@@ -39,3 +39,7 @@ This is **NOT** intended for copyright infringement or encouraging piracy.
 
 ## Legal Disclaimer
 This is for educational purposes only. Downloading copyrighted materials from streaming services may violate their Terms of Service. **Use at your own risk.**
+
+Making few changes just to practice git and learning to contribute to a public repository 
+please ignore these sentences. added few lines in the readme file and not in the main code of the project 
+THANKYOU 
